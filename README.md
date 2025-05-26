@@ -59,3 +59,13 @@ An automated parking management system using Arduino and Python to track vehicle
 cd ../Python
 pip install -r requirements.txt
 python dashboard.py
+
+
+File Structure:-
+├── Arduino/
+│   └── SmartParking.ino       # Main controller code
+├── Python/
+│   ├── dashboard.py           # Monitoring GUI
+│   └── parking_data.json      # Historical logs
+├── media/                     # Images/diagrams
+└── README.md
