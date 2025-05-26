@@ -30,8 +30,9 @@ An automated parking management system using Arduino and Python to track vehicle
   - Libraries: `pyserial`, `matplotlib`, `tkinter`
 
 ## 🔌 Circuit Connections
-![Circuit Diagram](media/circuit_diagram.png)  
-*(Add your Fritzing/Tinkercad diagram)*
+![WhatsApp Image 2025-05-26 at 01 28 22_8035da82](https://github.com/user-attachments/assets/6a786500-0a34-4bb6-b726-c81ee6eabb51)
+ 
+
 
 | Arduino Pin | Component        |
 |-------------|------------------|
