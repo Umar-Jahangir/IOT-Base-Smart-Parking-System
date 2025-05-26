@@ -1,4 +1,4 @@
-# 🚗 IoT-Based Smart Parking System
+![image](https://github.com/user-attachments/assets/cdae8a02-2363-46de-8459-97a1e1c8afc3)# 🚗 IoT-Based Smart Parking System
 
 An automated parking management system using Arduino and Python to track vehicle entries/exits, control gates with servo motors, and visualize real-time data via a dashboard.
 
