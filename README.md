@@ -2,8 +2,6 @@
 
 An automated parking management system using Arduino and Python to track vehicle entries/exits, control gates with servo motors, and visualize real-time data via a dashboard.
 
-![System Demo](media/image1.jpeg)  
-*(Replace with your project image/video)*
 
 ## 🌟 Features
 - **Vehicle Detection**: HC-SR04 ultrasonic sensors detect cars at entry/exit.
